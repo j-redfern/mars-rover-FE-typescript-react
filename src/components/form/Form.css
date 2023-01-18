@@ -1,0 +1,31 @@
+.form-table {
+    border-radius: 5px;
+    text-align : left;
+}
+
+.form-label {
+    font-family : "monospace";
+    font-size : 20px;
+    margin: 10px;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 12px 5px;
+    border: 1px solid #ccc;
+    font-style : italic;
+    font-size : 12px;
+}
+
+.submit-button {
+    margin-top: 10px;
+}
+
+input[type=submit] {
+    width: 5%;
+    background-color : pink;
+    color : white;
+}
+
+
+
